@@ -1,4 +1,5 @@
 #!/bin/sh
+#test commit
 
 #######################################
 # Bash script to install an AMP stack and PHPMyAdmin plus tweaks. For Debian based systems.
