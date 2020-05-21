@@ -5,8 +5,7 @@
 # Written by @AamnahAkram from http://aamnah.com
 
 # In case of any errors (e.g. MySQL) just re-run the script. Nothing will be re-installed except for the packages with errors.
-#######################################
-echo "this is from scripting.CODES blaa bala blaaa"
+######################################
 #COLORS
 # Reset
 Color_Off='\033[0m'       # Text Reset
@@ -52,3 +51,5 @@ sudo php5enmod mcrypt
 # Restart Apache
 echo -e "$Cyan \n Restarting Apache $Color_Off"
 sudo service apache2 restart
+
+echo " Hey you are done !"
