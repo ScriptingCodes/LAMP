@@ -6,7 +6,7 @@
 
 # In case of any errors (e.g. MySQL) just re-run the script. Nothing will be re-installed except for the packages with errors.
 #######################################
-echo "this is from scripting.CODES"
+echo "this is from scripting.CODES blaa bala blaaa"
 #COLORS
 # Reset
 Color_Off='\033[0m'       # Text Reset
